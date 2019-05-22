@@ -1,7 +1,7 @@
 
 ### Restaurant-Review-Site in React
 
-written in JavaScript, Bootstrap, CSS and HTML
+written in React, JavaScript, Bootstrap, CSS and HTML
 
 The project covers
 
