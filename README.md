@@ -1,6 +1,8 @@
 
 ### Restaurant-Review-Site in React
 
+written in JavaScript, Bootstrap, CSS and HTML
+
 The project covers
 
 - A Google Maps map loaded with the Google Maps API
