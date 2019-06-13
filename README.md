@@ -1,6 +1,6 @@
 ### Restaurant-Review-Site in React
 
-This is my project from the Unit 7 of my frond-end developer study at the Openclassrooms. 
+This is my project from the unit 7 of my frond-end developer study at the OpenClassrooms. 
 
 written in React, JavaScript, Bootstrap, CSS and HTML
 
