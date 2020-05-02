@@ -25,7 +25,7 @@ class ContactDisplayapp extends React.Component {
 		}
 	
 	renderMap = () => {
-			loadScript("https://maps.googleapis.com/maps/api/js?key=AIzaSyC3dTKzD1j5BBA6mXY1q7UruSQm7-JcfA4&callback=initMap&libraries=places")
+			loadScript("https://maps.googleapis.com/maps/api/js?key=AIzaSyAUHeuQyv0kYAJcdHFUZbnD7abiHMQhF6U&callback=initMap&libraries=places")
 			window.initMap = this.initMap	
 	}
 	 
